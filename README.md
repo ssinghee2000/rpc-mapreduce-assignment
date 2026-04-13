@@ -7,4 +7,3 @@ Steps:
 4. Compute Top 10
 5. Verify result
 
-Final score: 10/10
